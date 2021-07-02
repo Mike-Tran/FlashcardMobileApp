@@ -25,7 +25,7 @@
     "braces": "^3.0.2",
     "expo": "^39.0.3",
     "has-flag": "^3.0.0",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "react": "^16.8.6",
     "react-native": "^0.63.3",
     "react-native-snap-carousel": "^3.8.0",
